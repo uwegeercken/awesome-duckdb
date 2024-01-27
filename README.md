@@ -74,6 +74,7 @@
 - [Evidence](https://evidence.dev) - Generate reports using SQL and markdown. The DuckDB connector allows querying across DuckDB, csv, parquet and json.
 - [Latitude](https://latitude.so) - Latitude uses DuckDB to power data snapshots. Drop a CSV file and query it with SQL at the speed of light.
 - [Census](https://www.getcensus.com/) - Census's dataset diffing for incremental syncs is powered by DuckDB.
+- [Datagenerator2](https://github.com/uwegeercken/datagenerator2) - Datagenerator2 to generate random data and output in Json, Parquet, CSV format is powered by DuckDB.
 
 ### Web Clients
 
